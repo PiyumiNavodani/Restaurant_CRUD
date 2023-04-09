@@ -1,2 +1,2 @@
-# Restaurant_CRUD
- CRUD operation for restaurant application
+# Spring-Boot-CRUD
+ Spring Boot CRUD + MySQL + Hibernate
